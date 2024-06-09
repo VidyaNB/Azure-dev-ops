@@ -1,0 +1,100 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 267.97386618221509,
+        "y": 56.209149080164295
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 977.17647058823513,
+            "y": 11.764705882352942
+          },
+          "nodeIndex": "GIS-Analytics",
+          "nodeLineageTag": "e6edfe57-ef83-49e6-89c0-f760064f8864",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 1627.8431372549021,
+            "y": 84.274509803921575
+          },
+          "nodeIndex": "MCalc_Measure",
+          "nodeLineageTag": "0e5714a8-5efb-42c9-8a6d-27d968ede789",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 1243.1372549019607,
+            "y": 409.8039215686274
+          },
+          "nodeIndex": "Bug",
+          "nodeLineageTag": "ffa493f0-bfd1-49c6-82d9-464b6e0b8c74",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 776.15686274509812,
+            "y": 539.21568627450984
+          },
+          "nodeIndex": "Task",
+          "nodeLineageTag": "73ed58e6-b19b-4866-b661-6d47e24d7cff",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 568,
+            "y": 0
+          },
+          "nodeIndex": "User Story",
+          "nodeLineageTag": "7f063374-dd02-4718-9db0-2cc04d22f9fe",
+          "size": {
+            "height": 445.09803921568624,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 1667.686274509804,
+            "y": 394.11764705882354
+          },
+          "nodeIndex": "Change Request",
+          "nodeLineageTag": "72f9db81-a8f5-4789-9de6-44f96d7969d5",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 4
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 51,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
